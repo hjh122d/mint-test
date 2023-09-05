@@ -1,0 +1,8 @@
+export const dataWhitelist = [
+  "0x6618d37c20cdd1Ce2b9f5E2525A7cd02DE0FeFA3",
+  "0x92785ff1d827FD8F3ED7a511466372ff05a26246",
+];
+export const dataAirdorp = [
+  "0x6618d37c20cdd1Ce2b9f5E2525A7cd02DE0FeFA3",
+  "0x92785ff1d827FD8F3ED7a511466372ff05a26246",
+];

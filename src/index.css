@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  min-height: 100vh;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+button:active,
+button:focus {
+  box-shadow: none;
+}
+
+.address-table {
+  margin-top: 10px;
+}
+.address-table thead td {
+  text-align: center;
+}
+.address-table td {
+  border: 1px solid #dadada;
+  padding: 3px 10px;
+}
