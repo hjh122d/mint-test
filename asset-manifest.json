@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mint-test/static/css/main.a6080c9a.css",
+    "main.js": "/mint-test/static/js/main.651fc445.js",
+    "static/media/bg.png": "/mint-test/static/media/bg.a035010bc9c243a0aceb.png",
+    "static/media/logo-gaja-white.png": "/mint-test/static/media/logo-gaja-white.08b6d926a1c4bf2e5de6.png",
+    "static/media/Metamask-logo.svg": "/mint-test/static/media/Metamask-logo.c17a7a22ec55ddfab30da607eaf65b95.svg",
+    "static/media/spinner.svg": "/mint-test/static/media/spinner.f828e026a0e4649987dc2c517ce33141.svg",
+    "static/media/opensea.svg": "/mint-test/static/media/opensea.8b52159b54b5dcdb3af0f3f70257e9f4.svg",
+    "static/media/logout.svg": "/mint-test/static/media/logout.6e45c84333633b6ff378179b132165f0.svg",
+    "static/media/switch.svg": "/mint-test/static/media/switch.a8311bd0256d4406065cb13cd8b87f0e.svg",
+    "index.html": "/mint-test/index.html",
+    "main.a6080c9a.css.map": "/mint-test/static/css/main.a6080c9a.css.map",
+    "main.651fc445.js.map": "/mint-test/static/js/main.651fc445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6080c9a.css",
+    "static/js/main.651fc445.js"
+  ]
+}
